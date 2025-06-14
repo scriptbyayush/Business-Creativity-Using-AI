@@ -90,7 +90,7 @@ print(result)
 
 | Campaign Generator     | Dashboard View         | Reports Module         |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![](screenshots/b1.jpeg) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+| ![](screenshots/b1.jpeg) | ![](screenshots/b2.jpeg) | ![](screenshots/b3.jpeg) |
 
 ---
 
