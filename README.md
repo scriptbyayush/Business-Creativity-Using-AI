@@ -88,9 +88,9 @@ print(result)
 
 ## 🖼️ Screenshots
 
-| Campaign Generator     | Dashboard View         | Reports Module         |
+| Blog page     | Campaign Generator         | Sample Output         |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![](screenshots/b1.jpeg) | ![](screenshots/b2.jpeg) | ![](screenshots/b3.jpeg) |
+| ![](screenshots/b1.jpeg) | ![](screenshots/b3.jpeg) | ![](screenshots/b4.jpeg) |
 
 ---
 
@@ -146,12 +146,8 @@ python scripts/add_language.py --lang=hi
 
 ## 📬 Contact & Community
 
-* 📧 Email: [contact@bizgenius.ai](mailto:contact@bizgenius.ai)  
+* 📧 Email: [ayush.pict@gmail.com](mailto:ayush.pict@gmail.com)  
 * 🌐 Website: [www.bizgenius.ai](https://bizgenius.ai) *(Coming Soon)*  
-* 🧑‍💻 Maintainer: [Your Name](https://github.com/YOUR_USERNAME)  
 
 ---
 
-## 📢 License
-
-MIT License © 2025 – BizGenius AI
