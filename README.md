@@ -30,10 +30,9 @@
 ---
 
 ## 📄 Documentation
-
-* [📘 Full Documentation (WIP)](#)  
+  
 * [🌐 Live Demo (Coming Soon)](#)  
-* [🇮🇳 Hindi README (Coming Soon)]  
+  
 
 ---
 
@@ -42,8 +41,8 @@
 > Clone and run locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bizgenius-ai.git
-cd bizgenius-ai
+git clone https://github.com/scriptbyayush/Business-Creativity-Using-AI.git
+cd Business-Creativity-Using-AI
 
 # Setup virtual environment
 python -m venv venv
@@ -56,7 +55,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-> Frontend (if applicable):
+> Frontend:
 
 ```bash
 cd client
